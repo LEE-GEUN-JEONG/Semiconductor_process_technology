@@ -15,7 +15,7 @@
 • dual-stage Immersion Photo lithography 장비로 5nm, 7nm의 Technical node에 사용됨.
 • ASML의 “Twinscan NXE:3400B EUV”와 Overlay 성능이 일치하여 mix-and-match 방식으로 호환이
 가능함.
-• in-line catadioptric lens design을 통해 업계 최고의 Numerical Aperture 값을 가짐. (  	)
+• in-line catadioptric lens design을 통해 업계 최고의 Numerical Aperture 값을 가짐. 
 • 하루에 4,600장 이상의 Wafer를 처리할 수 있음. (높은 생산성)
 • 이전 장비가 150시간의 Reliability를 달성하는데 6개월이 걸린 반면, 현재 장비는 단 2개월만 소요됨.
 (향상된 maturity)
@@ -48,27 +48,10 @@ column에 의해 동시에 scanning 된다. 렌즈의 중앙부를 주로 이용
 ![image](https://user-images.githubusercontent.com/58419421/99421479-c3d41000-2941-11eb-8039-f80baf20270c.png)
 
 
- Light Source : 13.5nm의 EUV Light source를 사용한다. EUV source를 만드는 방식은 크게 두 가
-지가 있는데 일반적으로 LPP 방식으로 EUV를 생성해 낸다.
-LPP : Laser Produced Plasma의 준말로 강한 펄스의 Laser를 이용해서 Plasma를 생성한다. Photon
-은 recombination과 de-excitation of ion에 의해 ion이 energy를 잃으면서 생성된다. LPP는 DPP에
-비해 Compact한 장점이 있다.
-DPP : Discharged Produced Plasma의 준말로 전기적 에너지를 직접적으로 EUV light로 변환하는
-방식이다.
-- Resolution : [1]에서 제안한 DUV 장비(38nm) 대비 개선된 Resolution 성능을 가진다. 이는 종전의
-
- DUV Light source가 
-의 wavelength를 가지는데 비해 EUV는 	
-의 아주 짧은 단파
-장을 가지기에 가능한 일이다.
-- NA : 종전의 DUV 장비의   	 대비   	로 작아졌다. 이는 #$%&$  ' (
-
-) 인 것을
-감안하면 Resolution을 안 좋게 만드는 결과이다. 하지만 EUV는 매우 짧은 파장을 사용하므로 값의
-감소로 인한 손해보다 DOF가 증가하는(전사되는 Pattern의 uniformity가 증가하는) 좋은 결과를 가져온
-다. DOF: /  (
-0
-)
+ 
+![image](https://user-images.githubusercontent.com/58419421/99421609-ea924680-2941-11eb-84d5-efa4ba9acb1e.png)
+
+
 -
 - Reduction Ratio : 본 EUV 장비는 DUV 장비와 마찬가지로 Projection printing의 일종인 Step-and-Scanning
 Company ASML
